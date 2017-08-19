@@ -4,3 +4,4 @@
 3. Head First设计模式
 4. RabbitMQ
 5. MySQL性能调优与架构设计
+6. Java8实战
