@@ -5,3 +5,4 @@
 4. RabbitMQ
 5. MySQL性能调优与架构设计
 6. Java8实战
+7. 高性能MySQL
